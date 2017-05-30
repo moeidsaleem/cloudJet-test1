@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "cloudJEt test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moeidsaleem/cloudJet-test1.git"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "atrixdigital",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moeidsaleem/cloudJet-test1/issues"
+  },
+  "homepage": "https://github.com/moeidsaleem/cloudJet-test1#readme"
+}
